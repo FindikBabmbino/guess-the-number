@@ -4,4 +4,4 @@
 Made by Sinan B. Karaagac 
 23.04.2023
 
-Double click on "index.html" to open the program
+Download the repo and double click on "index.html" to open the program
